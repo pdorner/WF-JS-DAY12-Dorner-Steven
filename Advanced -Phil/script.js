@@ -4,7 +4,7 @@ $(document).ready(function() {
 	$("ol li").css("background-color", "#2a7b90");
 	$("textarea").attr("placeholder", "Express your opinion");
 	$("body img").attr("src", "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2019/02/Landscapes-04-jeremy-flint.jpg?resize=1500%2C1000&ssl=1");
-	$("blockquote").css("background-color", "orange").css("font-style", "italic");
+	$("blockquote").css({"background-color": "orange", "font-style": "italic"});
 	$("#logo").css("color", "black");
 	$(".gray").css("color", "white");
 	$(".date").remove();
