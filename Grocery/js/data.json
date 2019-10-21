@@ -1,4 +1,4 @@
-var products = [{
+products = '[{
  "name" : "milk",
  "img" : "../img/milk.jpg",
  "price": "1",
@@ -36,4 +36,4 @@ var products = [{
  "img" : "../img/rasen.jpg",
  "price": "1999.99",
  "stock": "20"	
-}];
+}]';
