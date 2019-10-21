@@ -1,4 +1,9 @@
 $("form").submit(function(e) {
+	$("form").remove();
+	for (i = 0; i<5; i++){
+		$("article").append("<div>Test</div>");
+	}
+	$("article div").addClass("box");
 
 	e.preventDefault();
 	
@@ -6,3 +11,6 @@ $("form").submit(function(e) {
 	
 
 });
+
+$("input").val("Search for...");
+$("footer [href]").attr("href", "http://www.codefactory.wien");
