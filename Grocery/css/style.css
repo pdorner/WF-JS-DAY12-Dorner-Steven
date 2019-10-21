@@ -1,0 +1,10 @@
+img{
+	height: 10em;
+	width: 10em;
+}
+.flex{
+	width:  100%;
+}
+.item{
+	width: 50%;
+}
