@@ -1,0 +1,39 @@
+var products = [{
+ "name" : "milk",
+ "img" : "../img/milk.jpg",
+ "price": "1",
+ "stock": "40"
+
+},
+{
+ "name" : "lemon",
+ "img" : "../img/lemon.jpg",
+ "price": "0.5",
+ "stock": "20"
+	
+},{
+ "name" : "orange juice",
+ "img" : "../img/orange.jpg",
+ "price": "2.90",
+ "stock": "120"	
+},{
+ "name" : "french cheese",
+ "img" : "../img/cheese.png",
+ "price": "1200",
+ "stock": "1"	
+},{
+ "name" : "Mozartkugeln",
+ "img" : "../img/kugeln.jpg",
+ "price": "40",
+ "stock": "5"	
+},{
+ "name" : "Half Life 3",
+ "img" : "../img/half3.png",
+ "price": "100000",
+ "stock": "1"	
+},{
+ "name" : "Mozartkugeln",
+ "img" : "../img/kugeln.jpg",
+ "price": "40",
+ "stock": "5"	
+}];
