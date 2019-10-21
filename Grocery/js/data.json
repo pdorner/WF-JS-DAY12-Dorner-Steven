@@ -32,8 +32,8 @@ var products = [{
  "price": "100000",
  "stock": "1"	
 },{
- "name" : "Mozartkugeln",
- "img" : "../img/kugeln.jpg",
- "price": "40",
- "stock": "5"	
+ "name" : "lawnmower robot",
+ "img" : "../img/rasen.jpg",
+ "price": "1999.99",
+ "stock": "20"	
 }];
