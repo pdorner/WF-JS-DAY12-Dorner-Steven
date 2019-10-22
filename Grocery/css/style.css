@@ -20,9 +20,9 @@ h2{
 	background-color:  skyblue;
 }
 .item{
-	width: 45%;
+	width: 40%;
 	border:  3px solid white;
 	border-radius: 5em;
 	box-shadow: 2px 2px 2px 2px hotpink;
-	margin: 10px 10px 10px 10px;
+	margin: 10px 50px 10px 50px;
 	}
